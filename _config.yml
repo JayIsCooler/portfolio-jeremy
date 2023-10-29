@@ -26,8 +26,8 @@ disqus_shortname: myshortname
 color:
   primary: 63ADF2 #80B3FF
   primary-rgb: "99,173,242" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: ffffff #FD6E8A
+  secondary-dark: ffffff #A2122F
 
 # Footer settings
 footer:
@@ -38,7 +38,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: linkedin
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
