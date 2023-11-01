@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023-10-25
 img: cabin.png
 video: projet1.mp4
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 19 mai 2023
+category: Animation 3D
+description: Voici Couleurs réconfortantes. Dans ce projet, j'ai animer les arbres qui pousses, fait le montage de la vidéo, des effets sonores et une partie de la trame sonore. Ce projet montre la solitude que peut resentir le personnage et lorsqu'il pleure il donne vie à l'environnement autour de lui. Ce projet à été réaliser dans le cadre du cours d'animation 3D de la technique d'intégrations multimédia.
 ---
