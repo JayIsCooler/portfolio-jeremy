@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2023-10-25
 img: circus.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Montage vidéo
+description: Voici le projet sous observation. Dans ce projet j'ai fait une partie du montage vidéo et sonore, filmer des scènes et fait la musique du générique. Ce projet à pu être exposer sur trois projecteurs et sur une télé catodique. Ce projet montre une société ou tout est sous observation dans la routine d'un jeune homme dans un monde dystopique.
 ---
