@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2020-10-25
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 
+category: Montage vidéo et animation 2D
+description: Voici le projet des pigeons. Dans ce projet j'ai réalisé une partie du tournage, du montage vidéo et sonore, animer de la 2D et fait des asssets pour les animations. Ce projet à été exposer au centre de la nature et à été qualifier finaliste d'un concours de vidéo.
 ---
