@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2023-10-25
 img: cabin.png
-video: projet1.mp4
+video: TYIZgZ5-SGg?si=eOiamtkGIOzhFf4H
 alt: image-alt
 project-date: 19 mai 2023
 category: Animation 3D
