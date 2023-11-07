@@ -15,7 +15,11 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <video controls width="100%" height="600"><source src="img/portfolio/{{ post.video }}" type="video/mp4"></video>
+      
+            {% if post.video %}
+            <iframe class="img-centered" width="640px" height="360px" src="https://www.youtube.com/embed/{{ post.vid }}">
+            </iframe>
+            {% endif %}
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
