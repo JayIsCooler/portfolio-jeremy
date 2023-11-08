@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Jérémy Cholette
-  location: Location
+  location: Me joindre
   social: Réseaux sociaux
  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -44,7 +44,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Laval, Qc
   - line: jeremycholette5@gmail.com
 
 
