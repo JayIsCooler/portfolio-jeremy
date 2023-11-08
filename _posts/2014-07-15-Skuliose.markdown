@@ -6,5 +6,6 @@ img: Skuliose.jpg
 img1: Skuliose.jpg
 project-date: 5 Décembre 2022
 category: Modélisation
+logiciel: Maya Autodesk
 description: Voici Skuliose, un personnage que j'ai modéliser dans le cadre d'un cours de modélisation 3D.
 ---
