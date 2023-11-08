@@ -11,5 +11,5 @@ img5: portrait_05.gif
 img6: portrait_06.gif
 project-date: 11 Décembre 2021
 category: Illustration numérique
-description: Voici mon projet d'auto-portrait numérique. J'ai dessiné et animer toute les illustrations.
+description: Voici mon projet d'autoportrait numérique. J'ai dessiné et animer toute les illustrations.
 ---
