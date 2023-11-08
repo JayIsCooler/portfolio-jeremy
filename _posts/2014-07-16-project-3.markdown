@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-10-25
-img: circus.png
+img: vigilance.png
 video: tj4_BImTiig?si=V0NGQvlPQnUjM3kt
 alt: image-alt
 project-date: April 2014
