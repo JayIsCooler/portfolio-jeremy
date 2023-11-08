@@ -3,8 +3,9 @@ layout: default
 modal-id: 5
 date: 2023-10-25
 img: final.png
-img: plan.png
-img: demo.png
+img1: plan.png
+img2: demo.png
+img3: final.png
 alt: image-alt
 project-date: 25 Novembre 2022
 category: Modélisation
