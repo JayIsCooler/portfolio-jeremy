@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-10-25
-img: cake.png
+img: pigeon.png
 video: 5-_wFc23cqU?si=xyJU2e_D9hOdkGvV
 alt: image-alt
 project-date: 
