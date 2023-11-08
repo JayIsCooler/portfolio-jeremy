@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-10-25
-img: cabin.png
+img: biota.png
 video: rp-tbBVGbCA?si=9-9f9kqXcGp1aNos
 alt: image-alt
 project-date: 19 mai 2023
