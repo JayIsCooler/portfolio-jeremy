@@ -6,7 +6,6 @@ img: final.png
 img1: plan.png
 img2: demo.png
 img3: final.png
-alt: image-alt
 project-date: 25 Novembre 2022
 category: Modélisation
 logiciel: Maya Autodesk
