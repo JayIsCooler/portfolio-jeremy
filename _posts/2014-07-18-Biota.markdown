@@ -7,5 +7,5 @@ video: rp-tbBVGbCA?si=9-9f9kqXcGp1aNos
 project-date: 19 mai 2023
 category: Animation 3D
 logiciel: Maya Autodesk et Davinci Resolve
-description: Voici Biota. Dans ce projet, j'ai animée les arbres qui pousses, fait le montage de la vidéo, des effets sonores et une partie de la trame sonore. Ce projet montre la solitude que peut resentir le personnage et lorsqu'il pleure il donne vie à l'environnement autour de lui. Ce projet à été réaliser dans le cadre du cours d'animation 3D de la technique d'intégrations multimédia.
+description: Voici Biota. Dans ce projet, j'ai animée les arbres qui pousses, fait le montage de la vidéo, des effets sonores et une partie de la trame sonore. Ce projet montre la solitude que peut resentir le personnage et lorsqu'il pleure, il donne vie à l'environnement autour de lui. Ce projet à été réalisé dans le cadre du cours d'animation 3D de la technique d'intégrations multimédia.
 ---
