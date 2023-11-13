@@ -39,11 +39,11 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/jeremy-cholette
-
+ 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: jeremycholette5@gmail.com
+  - line: jeremycholette@gmail.com
 
 
 # Build settings
